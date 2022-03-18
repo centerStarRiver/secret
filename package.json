@@ -1,0 +1,24 @@
+{
+  "name": "secret",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centerStarRiver/secret.git"
+  },
+  "keywords": [
+    "wbtyyds"
+  ],
+  "author": "wubaotong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centerStarRiver/secret/issues"
+  },
+  "homepage": "https://github.com/centerStarRiver/secret#readme",
+  "dependencies": {
+  }
+}
